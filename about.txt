@@ -1,0 +1,6 @@
+<html>
+<body>
+<h2>About</h2>
+<p> we are ready to learn git branching</p>
+</body>
+</html>
